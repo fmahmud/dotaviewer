@@ -8,7 +8,7 @@ for i in range(   10000000) :
 	url = url.replace("{{MID}}", str(match_id+i))
 	response = urllib2.urlopen(url)
 	html = response.read()
-	f = open('json/'+str(match_id+i)+'.json', 'w')
+	f = open(str(match_id+i)+'.json', 'w')
 	f.write(html)
 	print "Opened match number "+ str(match_id+i)
 
