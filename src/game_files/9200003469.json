@@ -1,0 +1,879 @@
+{
+	"result": {
+		"players": [
+			{
+				"account_id": 4294967295,
+				"player_slot": 0,
+				"hero_id": 43,
+				"item_0": 0,
+				"item_1": 0,
+				"item_2": 0,
+				"item_3": 0,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 1,
+				"deaths": 9,
+				"assists": 3,
+				"leaver_status": 1,
+				"gold": 2,
+				"last_hits": 35,
+				"denies": 0,
+				"gold_per_min": 214,
+				"xp_per_min": 179,
+				"gold_spent": 3825,
+				"hero_damage": 6046,
+				"tower_damage": 135,
+				"hero_healing": 0,
+				"level": 9,
+				"ability_upgrades": [
+					{
+						"ability": 5090,
+						"time": 99,
+						"level": 1
+					},
+					{
+						"ability": 5092,
+						"time": 239,
+						"level": 2
+					},
+					{
+						"ability": 5090,
+						"time": 274,
+						"level": 3
+					},
+					{
+						"ability": 5091,
+						"time": 340,
+						"level": 4
+					},
+					{
+						"ability": 5090,
+						"time": 434,
+						"level": 5
+					},
+					{
+						"ability": 5093,
+						"time": 576,
+						"level": 6
+					},
+					{
+						"ability": 5090,
+						"time": 787,
+						"level": 7
+					},
+					{
+						"ability": 5092,
+						"time": 847,
+						"level": 8
+					},
+					{
+						"ability": 5092,
+						"time": 1026,
+						"level": 9
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 1,
+				"hero_id": 47,
+				"item_0": 0,
+				"item_1": 0,
+				"item_2": 0,
+				"item_3": 0,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 0,
+				"deaths": 5,
+				"assists": 1,
+				"leaver_status": 2,
+				"gold": 2,
+				"last_hits": 0,
+				"denies": 0,
+				"gold_per_min": 112,
+				"xp_per_min": 11,
+				"gold_spent": 625,
+				"hero_damage": 131,
+				"tower_damage": 0,
+				"hero_healing": 0,
+				"level": 2,
+				"ability_upgrades": [
+					{
+						"ability": 5219,
+						"time": 86,
+						"level": 1
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 2,
+				"hero_id": 56,
+				"item_0": 63,
+				"item_1": 44,
+				"item_2": 16,
+				"item_3": 10,
+				"item_4": 16,
+				"item_5": 52,
+				"kills": 1,
+				"deaths": 9,
+				"assists": 0,
+				"leaver_status": 0,
+				"gold": 1053,
+				"last_hits": 39,
+				"denies": 6,
+				"gold_per_min": 352,
+				"xp_per_min": 251,
+				"gold_spent": 6910,
+				"hero_damage": 5715,
+				"tower_damage": 491,
+				"hero_healing": 0,
+				"level": 11,
+				"ability_upgrades": [
+					{
+						"ability": 5260,
+						"time": 106,
+						"level": 1
+					},
+					{
+						"ability": 5259,
+						"time": 244,
+						"level": 2
+					},
+					{
+						"ability": 5261,
+						"time": 364,
+						"level": 3
+					},
+					{
+						"ability": 5259,
+						"time": 525,
+						"level": 4
+					},
+					{
+						"ability": 5260,
+						"time": 589,
+						"level": 5
+					},
+					{
+						"ability": 5260,
+						"time": 732,
+						"level": 6
+					},
+					{
+						"ability": 5262,
+						"time": 851,
+						"level": 7
+					},
+					{
+						"ability": 5261,
+						"time": 1012,
+						"level": 8
+					},
+					{
+						"ability": 5259,
+						"time": 1189,
+						"level": 9
+					},
+					{
+						"ability": 5260,
+						"time": 1376,
+						"level": 10
+					},
+					{
+						"ability": 5259,
+						"time": 1498,
+						"level": 11
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 3,
+				"hero_id": 107,
+				"item_0": 180,
+				"item_1": 202,
+				"item_2": 103,
+				"item_3": 0,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 3,
+				"deaths": 11,
+				"assists": 1,
+				"leaver_status": 0,
+				"gold": 526,
+				"last_hits": 23,
+				"denies": 0,
+				"gold_per_min": 364,
+				"xp_per_min": 244,
+				"gold_spent": 7920,
+				"hero_damage": 6311,
+				"tower_damage": 45,
+				"hero_healing": 0,
+				"level": 11,
+				"ability_upgrades": [
+					{
+						"ability": 5608,
+						"time": 152,
+						"level": 1
+					},
+					{
+						"ability": 5609,
+						"time": 247,
+						"level": 2
+					},
+					{
+						"ability": 5608,
+						"time": 307,
+						"level": 3
+					},
+					{
+						"ability": 5610,
+						"time": 405,
+						"level": 4
+					},
+					{
+						"ability": 5609,
+						"time": 478,
+						"level": 5
+					},
+					{
+						"ability": 5612,
+						"time": 597,
+						"level": 6
+					},
+					{
+						"ability": 5608,
+						"time": 715,
+						"level": 7
+					},
+					{
+						"ability": 5608,
+						"time": 716,
+						"level": 8
+					},
+					{
+						"ability": 5609,
+						"time": 1095,
+						"level": 9
+					},
+					{
+						"ability": 5610,
+						"time": 1330,
+						"level": 10
+					},
+					{
+						"ability": 5612,
+						"time": 1523,
+						"level": 11
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 4,
+				"hero_id": 89,
+				"item_0": 0,
+				"item_1": 0,
+				"item_2": 0,
+				"item_3": 0,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 1,
+				"deaths": 7,
+				"assists": 2,
+				"leaver_status": 1,
+				"gold": 1,
+				"last_hits": 20,
+				"denies": 4,
+				"gold_per_min": 211,
+				"xp_per_min": 188,
+				"gold_spent": 4065,
+				"hero_damage": 2522,
+				"tower_damage": 0,
+				"hero_healing": 0,
+				"level": 9,
+				"ability_upgrades": [
+					{
+						"ability": 5469,
+						"time": 87,
+						"level": 1
+					},
+					{
+						"ability": 5468,
+						"time": 252,
+						"level": 2
+					},
+					{
+						"ability": 5469,
+						"time": 292,
+						"level": 3
+					},
+					{
+						"ability": 5467,
+						"time": 340,
+						"level": 4
+					},
+					{
+						"ability": 5468,
+						"time": 418,
+						"level": 5
+					},
+					{
+						"ability": 5470,
+						"time": 469,
+						"level": 6
+					},
+					{
+						"ability": 5468,
+						"time": 596,
+						"level": 7
+					},
+					{
+						"ability": 5469,
+						"time": 722,
+						"level": 8
+					},
+					{
+						"ability": 5468,
+						"time": 1022,
+						"level": 9
+					}
+				]
+				
+			},
+			{
+				"account_id": 131861081,
+				"player_slot": 128,
+				"hero_id": 104,
+				"item_0": 55,
+				"item_1": 151,
+				"item_2": 152,
+				"item_3": 9,
+				"item_4": 63,
+				"item_5": 168,
+				"kills": 11,
+				"deaths": 2,
+				"assists": 10,
+				"leaver_status": 0,
+				"gold": 4345,
+				"last_hits": 121,
+				"denies": 6,
+				"gold_per_min": 704,
+				"xp_per_min": 654,
+				"gold_spent": 15930,
+				"hero_damage": 13516,
+				"tower_damage": 5882,
+				"hero_healing": 0,
+				"level": 18,
+				"ability_upgrades": [
+					{
+						"ability": 5597,
+						"time": 98,
+						"level": 1
+					},
+					{
+						"ability": 5596,
+						"time": 222,
+						"level": 2
+					},
+					{
+						"ability": 5597,
+						"time": 281,
+						"level": 3
+					},
+					{
+						"ability": 5596,
+						"time": 399,
+						"level": 4
+					},
+					{
+						"ability": 5597,
+						"time": 486,
+						"level": 5
+					},
+					{
+						"ability": 5598,
+						"time": 532,
+						"level": 6
+					},
+					{
+						"ability": 5596,
+						"time": 603,
+						"level": 7
+					},
+					{
+						"ability": 5597,
+						"time": 650,
+						"level": 8
+					},
+					{
+						"ability": 5596,
+						"time": 828,
+						"level": 9
+					},
+					{
+						"ability": 5595,
+						"time": 829,
+						"level": 10
+					},
+					{
+						"ability": 5598,
+						"time": 898,
+						"level": 11
+					},
+					{
+						"ability": 5595,
+						"time": 1143,
+						"level": 12
+					},
+					{
+						"ability": 5595,
+						"time": 1166,
+						"level": 13
+					},
+					{
+						"ability": 5595,
+						"time": 1302,
+						"level": 14
+					},
+					{
+						"ability": 5002,
+						"time": 1397,
+						"level": 15
+					},
+					{
+						"ability": 5598,
+						"time": 1589,
+						"level": 16
+					},
+					{
+						"ability": 5002,
+						"time": 1727,
+						"level": 17
+					},
+					{
+						"ability": 5002,
+						"time": 1804,
+						"level": 18
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 129,
+				"hero_id": 30,
+				"item_0": 121,
+				"item_1": 38,
+				"item_2": 108,
+				"item_3": 29,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 16,
+				"deaths": 0,
+				"assists": 10,
+				"leaver_status": 0,
+				"gold": 6321,
+				"last_hits": 57,
+				"denies": 1,
+				"gold_per_min": 577,
+				"xp_per_min": 646,
+				"gold_spent": 11095,
+				"hero_damage": 18604,
+				"tower_damage": 944,
+				"hero_healing": 1913,
+				"level": 18,
+				"ability_upgrades": [
+					{
+						"ability": 5138,
+						"time": 84,
+						"level": 1
+					},
+					{
+						"ability": 5140,
+						"time": 292,
+						"level": 2
+					},
+					{
+						"ability": 5138,
+						"time": 293,
+						"level": 3
+					},
+					{
+						"ability": 5140,
+						"time": 426,
+						"level": 4
+					},
+					{
+						"ability": 5138,
+						"time": 569,
+						"level": 5
+					},
+					{
+						"ability": 5141,
+						"time": 632,
+						"level": 6
+					},
+					{
+						"ability": 5138,
+						"time": 721,
+						"level": 7
+					},
+					{
+						"ability": 5140,
+						"time": 823,
+						"level": 8
+					},
+					{
+						"ability": 5140,
+						"time": 880,
+						"level": 9
+					},
+					{
+						"ability": 5139,
+						"time": 1037,
+						"level": 10
+					},
+					{
+						"ability": 5141,
+						"time": 1108,
+						"level": 11
+					},
+					{
+						"ability": 5139,
+						"time": 1433,
+						"level": 12
+					},
+					{
+						"ability": 5139,
+						"time": 1434,
+						"level": 13
+					},
+					{
+						"ability": 5139,
+						"time": 1527,
+						"level": 14
+					},
+					{
+						"ability": 5002,
+						"time": 1660,
+						"level": 15
+					},
+					{
+						"ability": 5141,
+						"time": 1737,
+						"level": 16
+					},
+					{
+						"ability": 5002,
+						"time": 1791,
+						"level": 17
+					},
+					{
+						"ability": 5002,
+						"time": 1845,
+						"level": 18
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 130,
+				"hero_id": 65,
+				"item_0": 48,
+				"item_1": 1,
+				"item_2": 102,
+				"item_3": 41,
+				"item_4": 51,
+				"item_5": 0,
+				"kills": 4,
+				"deaths": 1,
+				"assists": 16,
+				"leaver_status": 0,
+				"gold": 1071,
+				"last_hits": 33,
+				"denies": 3,
+				"gold_per_min": 461,
+				"xp_per_min": 404,
+				"gold_spent": 13215,
+				"hero_damage": 7066,
+				"tower_damage": 229,
+				"hero_healing": 0,
+				"level": 14,
+				"ability_upgrades": [
+					{
+						"ability": 5320,
+						"time": 118,
+						"level": 1
+					},
+					{
+						"ability": 5322,
+						"time": 277,
+						"level": 2
+					},
+					{
+						"ability": 5320,
+						"time": 361,
+						"level": 3
+					},
+					{
+						"ability": 5322,
+						"time": 596,
+						"level": 4
+					},
+					{
+						"ability": 5320,
+						"time": 612,
+						"level": 5
+					},
+					{
+						"ability": 5323,
+						"time": 675,
+						"level": 6
+					},
+					{
+						"ability": 5320,
+						"time": 823,
+						"level": 7
+					},
+					{
+						"ability": 5321,
+						"time": 917,
+						"level": 8
+					},
+					{
+						"ability": 5322,
+						"time": 1223,
+						"level": 9
+					},
+					{
+						"ability": 5322,
+						"time": 1223,
+						"level": 10
+					},
+					{
+						"ability": 5323,
+						"time": 1398,
+						"level": 11
+					},
+					{
+						"ability": 5321,
+						"time": 1644,
+						"level": 12
+					},
+					{
+						"ability": 5321,
+						"time": 1652,
+						"level": 13
+					},
+					{
+						"ability": 5321,
+						"time": 1788,
+						"level": 14
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 131,
+				"hero_id": 7,
+				"item_0": 180,
+				"item_1": 34,
+				"item_2": 1,
+				"item_3": 108,
+				"item_4": 48,
+				"item_5": 40,
+				"kills": 8,
+				"deaths": 2,
+				"assists": 7,
+				"leaver_status": 0,
+				"gold": 948,
+				"last_hits": 57,
+				"denies": 0,
+				"gold_per_min": 496,
+				"xp_per_min": 516,
+				"gold_spent": 13425,
+				"hero_damage": 9407,
+				"tower_damage": 1211,
+				"hero_healing": 0,
+				"level": 16,
+				"ability_upgrades": [
+					{
+						"ability": 5023,
+						"time": 102,
+						"level": 1
+					},
+					{
+						"ability": 5025,
+						"time": 290,
+						"level": 2
+					},
+					{
+						"ability": 5023,
+						"time": 319,
+						"level": 3
+					},
+					{
+						"ability": 5025,
+						"time": 400,
+						"level": 4
+					},
+					{
+						"ability": 5024,
+						"time": 523,
+						"level": 5
+					},
+					{
+						"ability": 5026,
+						"time": 548,
+						"level": 6
+					},
+					{
+						"ability": 5023,
+						"time": 632,
+						"level": 7
+					},
+					{
+						"ability": 5024,
+						"time": 735,
+						"level": 8
+					},
+					{
+						"ability": 5025,
+						"time": 868,
+						"level": 9
+					},
+					{
+						"ability": 5024,
+						"time": 1006,
+						"level": 10
+					},
+					{
+						"ability": 5026,
+						"time": 1068,
+						"level": 11
+					},
+					{
+						"ability": 5023,
+						"time": 1223,
+						"level": 12
+					},
+					{
+						"ability": 5024,
+						"time": 1224,
+						"level": 13
+					},
+					{
+						"ability": 5025,
+						"time": 1496,
+						"level": 14
+					},
+					{
+						"ability": 5002,
+						"time": 1641,
+						"level": 15
+					},
+					{
+						"ability": 5026,
+						"time": 1847,
+						"level": 16
+					}
+				]
+				
+			},
+			{
+				"account_id": 4294967295,
+				"player_slot": 132,
+				"hero_id": 31,
+				"item_0": 0,
+				"item_1": 0,
+				"item_2": 0,
+				"item_3": 0,
+				"item_4": 0,
+				"item_5": 0,
+				"kills": 1,
+				"deaths": 1,
+				"assists": 1,
+				"leaver_status": 1,
+				"gold": 1,
+				"last_hits": 20,
+				"denies": 0,
+				"gold_per_min": 264,
+				"xp_per_min": 150,
+				"gold_spent": 2025,
+				"hero_damage": 3034,
+				"tower_damage": 66,
+				"hero_healing": 0,
+				"level": 8,
+				"ability_upgrades": [
+					{
+						"ability": 5134,
+						"time": 99,
+						"level": 1
+					},
+					{
+						"ability": 5136,
+						"time": 234,
+						"level": 2
+					},
+					{
+						"ability": 5134,
+						"time": 285,
+						"level": 3
+					},
+					{
+						"ability": 5136,
+						"time": 332,
+						"level": 4
+					},
+					{
+						"ability": 5134,
+						"time": 397,
+						"level": 5
+					},
+					{
+						"ability": 5137,
+						"time": 474,
+						"level": 6
+					},
+					{
+						"ability": 5134,
+						"time": 538,
+						"level": 7
+					},
+					{
+						"ability": 5135,
+						"time": 681,
+						"level": 8
+					}
+				]
+				
+			}
+		]
+		,
+		"radiant_win": false,
+		"duration": 1698,
+		"start_time": 1397486294,
+		"match_id": 610068877,
+		"match_seq_num": 554711746,
+		"tower_status_radiant": 4,
+		"tower_status_dire": 2046,
+		"barracks_status_radiant": 3,
+		"barracks_status_dire": 63,
+		"cluster": 182,
+		"first_blood_time": 117,
+		"lobby_type": 0,
+		"human_players": 10,
+		"leagueid": 0,
+		"positive_votes": 0,
+		"negative_votes": 0,
+		"game_mode": 5
+	}
+}
